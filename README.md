@@ -37,9 +37,9 @@ Atualmente expandindo meus conhecimentos em arquiteturas modernas de dados, dese
 
 ## Contato
 
-* 📧 **Email:** [seu-email@gmail.com](mailto:seu-email@gmail.com)
-* 💼 **LinkedIn:** [seu-perfil-linkedin](https://www.linkedin.com/in/seu-perfil/)
-* 📄 **Lattes CV:** [seu-link-lattes](http://lattes.cnpq.br/seu-id)
+* 📧 **Email:** [rafaelgoncalves9ano1@gmail.com](mailto:rafaelgoncalves9ano1@gmail.com)
+* 💼 **LinkedIn:** [Rafael Gonçalves](https://www.linkedin.com/in/rafael-gon%C3%A7alves-3506aa2b7/)
+
 
 ---
 
