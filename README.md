@@ -1,49 +1,70 @@
-# Sobre Mim
+# Rafael Gonçalves Oliveira
 
-**Estudante de Engenharia da Computação** no IFMG (Instituto Federal de Minas Gerais).  
-*Computer Engineering Student at IFMG.*
+### Engenharia da Computação · IFMG — Campus Bambuí
 
-Apaixonado por construir soluções escaláveis com dados e explorar a interseção entre inteligência artificial e engenharia de dados.  
-Atualmente expandindo meus conhecimentos em arquiteturas modernas de dados, desenvolvimento web e modelos de machine learning.
+Explorando a tecnologia por meio da programação, da experimentação e da construção de soluções.
 
 ---
 
-## Áreas de Interesse
+## Quem sou
 
-* **Engenharia de Dados** | Data Engineering
-* **Inteligência Artificial & ML** | Artificial Intelligence & ML
-* **Sistemas de Banco de Dados** | Database Systems
-* **Desenvolvimento Full-Stack** | Full-Stack Development
+Sou estudante de Engenharia da Computação no Instituto Federal de Minas Gerais (IFMG), com formação técnica em Mecânica.
+
+Minha trajetória reúne o interesse pela área de tecnologia, a lógica por trás dos sistemas e a busca por soluções para problemas reais. Utilizo este espaço para registrar minha evolução como programador, organizar trabalhos acadêmicos e compartilhar projetos desenvolvidos durante meus estudos.
+
+Também possuo experiência acadêmica em extensão na área de Ensino de Lógica e experiência com atendimento ao público, que contribuíram para minha formação e para o desenvolvimento de habilidades de comunicação, organização e resolução de problemas.
+
+## O que estou explorando
+
+**Desenvolvimento de software**  
+Construção de aplicações, lógica de programação e estudo de diferentes linguagens.
+
+**Desenvolvimento web**  
+Interesse em aplicações Full Stack, desde a interface com o usuário até o processamento no servidor.
+
+**Dados e inteligência artificial**  
+Exploração de bancos de dados, análise de informações e aplicações de visão computacional.
+
+**Sistemas computacionais**  
+Interesse em compreender como software e hardware trabalham juntos.
+
+## Tecnologias no meu percurso
+
+| Tecnologia | Contexto |
+|---|---|
+| Python | Estudos e programação |
+| Java | Formação acadêmica |
+| C++ | Algoritmos e estruturas de dados |
+| PHP | Desenvolvimento web |
+| SQL / PostgreSQL | Banco de dados |
+| JavaScript | Interesse em desenvolvimento web |
+
+*Esta lista representa tecnologias com as quais tive contato ao longo dos estudos, não necessariamente domínio profissional.*
+
+## Laboratório de projetos
+
+Este perfil reúne trabalhos acadêmicos, exercícios práticos e projetos pessoais relacionados à minha formação.
+
+Quero utilizar cada projeto como uma oportunidade para praticar programação, melhorar a organização do código, documentar soluções e aprender novas ferramentas.
+
+**Projetos em destaque:** em construção.
+
+## Formação
+
+**Engenharia da Computação**  
+Instituto Federal de Minas Gerais — IFMG, Campus Bambuí
+
+**Técnico em Mecânica**  
+Instituto Federal de Minas Gerais — IFMG, Campus Arcos
+
+## Vamos nos conectar?
+
+Estou aberto a oportunidades de estágio, colaborações acadêmicas e conexões com pessoas interessadas em tecnologia.
+
+- **LinkedIn:** [Meu perfil profissional](https://www.linkedin.com/in/rafael-gon%C3%A7alves-3506aa2b7/)
+- **E-mail:** rafaelgoncalves9ano1@gmail.com
+- **GitHub:** [@olivRafael](https://github.com/olivRafael)
 
 ---
 
-## Habilidades Técnicas
-
-<p left>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="r" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="40" height="40"/>
-</p>
-
----
-
-## Contato
-
-* 📧 **Email:** [rafaelgoncalves9ano1@gmail.com](mailto:rafaelgoncalves9ano1@gmail.com)
-* 💼 **LinkedIn:** [Rafael Gonçalves](https://www.linkedin.com/in/rafael-gon%C3%A7alves-3506aa2b7/)
-
-
----
-
-*Aberto a oportunidades de colaboração e sempre disposto a aprender novas tecnologias / Open to collaboration opportunities and always eager to learn new technologies*
-
-Fique à vontade para explorar meus repositórios e entrar em contato!  
-*Feel free to explore my repositories and reach out if you'd like to connect!*
+*Aprendendo, construindo e evoluindo um projeto de cada vez.*
