@@ -14,16 +14,10 @@ Minha trajetória reúne o interesse pela área de tecnologia, a lógica por tr�
 ## O que estou explorando
 
 **Desenvolvimento de software**  
-Construção de aplicações, lógica de programação e estudo de diferentes linguagens.
 
-**Desenvolvimento web**  
-Interesse em aplicações Full Stack, desde a interface com o usuário até o processamento no servidor.
+**Desenvolvimento Full-Stack**  
 
-**Dados e inteligência artificial**  
-Exploração de bancos de dados, análise de informações e aplicações de visão computacional.
-
-**Sistemas computacionais**  
-Interesse em compreender como software e hardware trabalham juntos.
+**Banco de Dados**  
 
 ## Tecnologias no meu percurso
 
