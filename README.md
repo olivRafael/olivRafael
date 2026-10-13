@@ -6,14 +6,11 @@ Explorando a tecnologia por meio da programação, da experimentação e da cons
 
 ---
 
-## Quem sou
+## Sobre Mim
 
 Sou estudante de Engenharia da Computação no Instituto Federal de Minas Gerais (IFMG), com formação técnica em Mecânica.
 
-Minha trajetória reúne o interesse pela área de tecnologia, a lógica por trás dos sistemas e a busca por soluções para problemas reais. Utilizo este espaço para registrar minha evolução como programador, organizar trabalhos acadêmicos e compartilhar projetos desenvolvidos durante meus estudos.
-
-Também possuo experiência acadêmica em extensão na área de Ensino de Lógica e experiência com atendimento ao público, que contribuíram para minha formação e para o desenvolvimento de habilidades de comunicação, organização e resolução de problemas.
-
+Minha trajetória reúne o interesse pela área de tecnologia, a lógica por trás dos sistemas e a busca por soluções para problemas reais. 
 ## O que estou explorando
 
 **Desenvolvimento de software**  
